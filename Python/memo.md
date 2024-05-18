@@ -5,6 +5,11 @@
 
 -----
 
+* OpenPyXL
+* pywin32
+
+-----
+
 * pywinauto
 * PyAutoGUI
 
