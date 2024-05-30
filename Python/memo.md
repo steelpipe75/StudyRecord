@@ -17,6 +17,7 @@
 
 * pytesseract
 * EasyOCR
+* PaddleOCR
 
 -----
 
@@ -63,4 +64,5 @@
 * streamsync
 * PyGWalker
 * Dash
-
+* Flet
+* niceGUI
