@@ -1,3 +1,4 @@
+# 気になったライブラリ/モジュール
 
 * PuLP
   * ortoolpy
@@ -66,3 +67,14 @@
 * Dash
 * Flet
 * niceGUI
+
+-----
+
+* FastAPI
+
+-----
+
+* requests
+* urllib
+* PyCurl
+* aiohttp
