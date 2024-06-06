@@ -26,6 +26,11 @@
 
 -----
 
+* Hatch
+* Rye
+
+-----
+
 * invoke
 * Pypyr
 
@@ -49,6 +54,7 @@
 
 * pytest-clarity
 * pytest-randomly
+* pytest-profiling
 
 -----
 
@@ -58,6 +64,7 @@
 -----
 
 * Streamlit
+  - streamlit-aggrid 
 * gradio
 * Solara
 * reflex
@@ -67,6 +74,8 @@
 * Dash
 * Flet
 * niceGUI
+* Panel
+* ReactPy
 
 -----
 
