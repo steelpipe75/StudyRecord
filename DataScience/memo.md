@@ -33,3 +33,11 @@ https://github.com/AutoViML/AutoViz
 ## sweetviz
 
 https://github.com/fbdesignpro/sweetviz
+
+# 時系列
+
+## 指数加重移動平均, 指数加重移動標準偏差
+
+ewm.mean(), ewm().std()
+
+
