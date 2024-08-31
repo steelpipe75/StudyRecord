@@ -44,6 +44,15 @@ pd.crosstab()
 
 pb.value_counts()
 
+# 分類問題
+
+## クラス確率
+
+`model.predict_proba(test_x)`
+
+2値分類の 0か1 か の 1 になる確率を取得する場合、下のように2列目を取得  
+`model.predict_proba(test_x)[:,1]`
+
 # 時系列
 
 ## 指数加重移動平均, 指数加重移動標準偏差
