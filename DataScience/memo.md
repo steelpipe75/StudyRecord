@@ -40,6 +40,10 @@ https://github.com/fbdesignpro/sweetviz
 
 pd.crosstab()
 
+## データの出現数をカウント
+
+pb.value_counts()
+
 # 時系列
 
 ## 指数加重移動平均, 指数加重移動標準偏差
