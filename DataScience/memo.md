@@ -34,6 +34,12 @@ https://github.com/AutoViML/AutoViz
 
 https://github.com/fbdesignpro/sweetviz
 
+# データ分析
+
+## クロス集計
+
+pd.crosstab()
+
 # 時系列
 
 ## 指数加重移動平均, 指数加重移動標準偏差
