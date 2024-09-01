@@ -36,13 +36,33 @@ https://github.com/fbdesignpro/sweetviz
 
 # データ分析
 
-## クロス集計
+## pandas
+
+### クロス集計
 
 pd.crosstab()
 
-## データの出現数をカウント
+### データの出現数をカウント
 
 pb.value_counts()
+
+## numpy
+
+### 分散
+
+np.var()
+
+### 標準偏差
+
+np.std()
+
+### 合計
+
+np.csum()
+
+### 累積和
+
+np.cumsum()
 
 # 分類問題
 
