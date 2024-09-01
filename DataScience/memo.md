@@ -38,31 +38,51 @@ https://github.com/fbdesignpro/sweetviz
 
 ## pandas
 
+### データ集約
+
+`df.groupby([列1,列2])`
+
+`df.groupby([列1,列2]).sum()`,`df.groupby([列1,列2]).mean()`,`df.groupby([列1,列2]).max()`,`df.groupby([列1,列2]).min()`,`df.groupby([列1,列2]).count()`
+
+`df.groupby([列1,列2]).agg(['count','max', 'min', 'sum'])`
+
+### 要約統計量
+
+`df.describe()`
+
+### 要約情報
+
+`df.info()`
+
 ### クロス集計
 
-pd.crosstab()
+`pd.crosstab()`
+
+### ピボットテーブル
+
+`df.pivot_table()`
 
 ### データの出現数をカウント
 
-pb.value_counts()
+`pb.value_counts()`
 
 ## numpy
 
 ### 分散
 
-np.var()
+`np.var()`
 
 ### 標準偏差
 
-np.std()
+`np.std()`
 
 ### 合計
 
-np.csum()
+`np.csum()`
 
 ### 累積和
 
-np.cumsum()
+`np.cumsum()`
 
 # 分類問題
 
