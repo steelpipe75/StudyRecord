@@ -84,6 +84,30 @@ https://github.com/fbdesignpro/sweetviz
 
 `np.cumsum()`
 
+## scikit-learn
+
+### データ前処理
+
+#### from sklearn.preprocessing import StandardScaler
+
+#### from sklearn.preprocessing import MinMaxScaler
+
+#### from sklearn.preprocessing import LabelEncoder
+
+#### from sklearn.preprocessing import OneHotEncoder
+
+### データ分割
+
+#### from sklearn.model_selection import train_test_split
+
+#### from sklearn.model_selection import KFold
+
+#### from sklearn.model_selection import StratifiedKFold
+
+#### from sklearn.model_selection import GroupKFold
+
+#### from sklearn.model_selection import TimeSeriesSplit
+
 # 分類問題
 
 ## クラス確率
