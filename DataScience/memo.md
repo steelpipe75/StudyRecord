@@ -66,6 +66,10 @@ https://github.com/fbdesignpro/sweetviz
 
 `pb.value_counts()`
 
+### ビニング(複数の区分に分割)
+
+`pd.cut()`
+
 ## numpy
 
 ### 分散
@@ -107,6 +111,10 @@ https://github.com/fbdesignpro/sweetviz
 #### from sklearn.model_selection import GroupKFold
 
 #### from sklearn.model_selection import TimeSeriesSplit
+
+### 多項式特徴量、交互作用特徴量
+
+#### from sklearn.preprocessing import PolynomialFeatures
 
 # 分類問題
 
