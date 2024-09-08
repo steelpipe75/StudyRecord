@@ -70,6 +70,20 @@ https://github.com/fbdesignpro/sweetviz
 
 `pd.cut()`
 
+### 重複データ
+
+#### 重複データの確認
+
+`df.duplicated()`
+
+#### 重複データの削除
+
+`df.drop_duplicates()`
+
+### indexのふり直し
+
+`df.reset_index()`
+
 ## numpy
 
 ### 分散
