@@ -70,6 +70,14 @@ https://github.com/fbdesignpro/sweetviz
 
 `pd.cut()`
 
+### 時系列データを指定の期間で集計し直し
+
+`df.resample(rule='M')`
+
+'D' : 日次、'W' : 週次、'M' : 月次
+
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.resample.html
+
 ### 重複データ
 
 #### 重複データの確認
