@@ -92,6 +92,18 @@ https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.resample.html
 
 `df.reset_index()`
 
+### データ結合
+
+縦に結合 : `pd.concat([A,B]`
+
+横に結合 : `pd.concat([A,B], axis=1)`
+
+キーをヒントに結合 : `pd.merge(A,B, on='列ラベル')`
+
+### カラムに数式や関数を適用
+
+`df['列ラベル'].apply()`
+
 ## numpy
 
 ### 分散
