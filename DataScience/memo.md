@@ -104,6 +104,14 @@ https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.resample.html
 
 `df['列ラベル'].apply()`
 
+### カラムに含まれる値の一覧
+
+`df['列ラベル'].unique()`
+
+### カラムに含まれる値の種類数
+
+`df['列ラベル'].nunique()`
+
 ## numpy
 
 ### 分散
