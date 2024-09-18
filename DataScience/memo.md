@@ -112,6 +112,11 @@ https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.resample.html
 
 `df['列ラベル'].nunique()`
 
+### 特定のデータだけ書き換え
+
+`df['列ラベル']['条件'] = '書き換えるデータ'`  
+`df['列ラベル']['条件A' & '条件B'] = '書き換えるデータ'`
+
 ## numpy
 
 ### 分散
