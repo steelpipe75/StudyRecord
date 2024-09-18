@@ -163,6 +163,18 @@ https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.resample.html
 
 #### from sklearn.preprocessing import PolynomialFeatures
 
+# 回帰問題
+
+## LinearRegression
+
+### 切片
+
+`lr.intercept_`
+
+### 偏回帰係数
+
+`coef_df = pd.DataFrame(lr.coef_, index=X_train.columns)`
+
 # 分類問題
 
 ## クラス確率
