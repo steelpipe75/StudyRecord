@@ -57,6 +57,7 @@ https://github.com/fbdesignpro/sweetviz
 ### クロス集計
 
 `pd.crosstab()`
+`pd.crosstab(data["列A"], data["列B"], margins=True)`
 
 ### ピボットテーブル
 
