@@ -118,6 +118,10 @@ https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.resample.html
 `df['列ラベル']['条件'] = '書き換えるデータ'`  
 `df['列ラベル']['条件A' & '条件B'] = '書き換えるデータ'`
 
+### ランダムサンプリング
+
+`df.sample(n='取り出したい数', random_state='数値')`
+
 ## numpy
 
 ### 分散
